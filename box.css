@@ -1,0 +1,71 @@
+
+*{
+	 margin: 0;
+	 box-sizing: border-box;
+}
+.box{
+	  background-color: teal;
+	  height: 150px;
+	  width: 150px;
+	  float: left;
+	  margin: 10px;
+	  text-align: center;
+	  line-height: 150px;
+	  font-size: 25px;
+	  color: floralwhite;
+	  border: 7.5px dotted #FF5733;
+	  .oval
+
+
+
+}
+.clearfix{
+	clear: both;
+}
+    .oval {
+      width: 200px;
+      height: 100px;
+      background: teal;
+      border-radius: 100px / 50px;
+      margin: 12px;
+      text-align: center;
+      line-height: 100px;
+       font-size: 25px;
+	  color: floralwhite;
+	  border: 7.5px dotted #FF5733;
+    
+    }
+.clearfix{
+	clear: both;
+}
+ .triangle{
+      width: 0;
+      height: 0;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-bottom: 100px solid teal;
+      text-align: center;
+      line-height: 100px;
+     color: floralwhite;
+	 
+    
+      
+      
+    }
+
+      .clearfix{
+              	clear: both;
+              }
+.trapezoid {
+	  margin: 10px;
+      border-bottom: 100px solid teal;
+      border-left: 25px solid transparent;
+      border-right: 25px solid transparent;
+      height: 0;
+      width: 100px;
+       text-align: center;
+      line-height: 100px;
+     color: floralwhite;
+      
+    }
+  
